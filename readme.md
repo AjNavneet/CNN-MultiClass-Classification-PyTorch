@@ -44,33 +44,6 @@ After unzipping the `pytorch_cnn.zip` file, you'll find the following folders:
 
 ---
 
-## Takeaways
-
-1. Architecture of CNN
-2. Extracting features from images
-3. kernels in CNN
-4. Padding and pooling
-5. Data loading in PyTorch
-6. Data preprocessing in PyTorch
-7. CNN implementation in PyTorch
-
----
-
-
-
-
-
----
-
-# Pytorch
-
-- PyTorch is an open source machine learning library for Python and is completely based on Torch. 
-- It is primarily used for applications such as natural language processing
-- PyTorch redesigns and implements Torch in Python while sharing the same core C libraries for the backend code.
-- PyTorch developers tuned this back-end code to run Python efficiently. They also kept the GPU based hardware acceleration as well as the extensibility features that made Lua-based Torch.
-
----
-
 ## Getting Started
 
 There are two ways to execute the end to end flow.
@@ -78,15 +51,11 @@ There are two ways to execute the end to end flow.
 - Modular Code
 - IPython
 
-### Modular code
+### Environment
 
 - Create virtualenv
 - Install requirements `pip install -r requirements.txt`
 - Run Code `python Engine.py`
 - Check output for all the visualization
-
-### IPython Google Colab
-
-Follow the instructions in the notebook `CNN.ipynb`
 
 ---
